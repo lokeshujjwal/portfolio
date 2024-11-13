@@ -1,5 +1,6 @@
-title: Lokesh Kumar
-logo: /assets/img/LKPhoto.jpg
+title: <p align='center'> Lokesh Kumar</p>
+<center><img src="/assets/img/LKPhoto.jpg"/></center>
+# logo: /assets/img/LKPhoto.jpg
 description: This is Lokesh Kumar Portfolio
 show_downloads: true
 google_analytics:
